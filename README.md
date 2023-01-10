@@ -11,7 +11,6 @@
       * docker-compose.yml（漏洞的docker环境）
 
 ## TODO
-- [ ] MetInfo
 - [ ] 74CMS
 - [ ] ThinkPHP
 - [ ] Laravel
@@ -20,6 +19,8 @@
 
 ## Doing
 - [ ] MetInfo
+  - [ ] MetInfo6.0.0
+  - [ ] MetInfo7.0.0
   - [ ] MetInfo7.0.0beta
     - [x] CVE-2020-21131
     
