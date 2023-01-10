@@ -25,3 +25,13 @@
     - [x] CVE-2020-21131
     
 ## Done
+
+## 漏洞成因统计
+### SQL注入
+<details>
+<summary>SQL语句select中条件变量无单引号保护（1次）</summary>
+
+* CVE-2020-21131
+
+</details>
+
