@@ -22,9 +22,11 @@
   - [ ] MetInfo6.0.0
   - [ ] MetInfo7.0.0
   - [ ] MetInfo7.0.0beta
-    - [x] CVE-2020-21131
     
 ## Done
+- [ ] MetInfo7.0.0beta
+  - [x] CVE-2020-21131
+  - [x] CVE-2019-17553
 
 ## 漏洞成因统计
 ### SQL注入
@@ -35,3 +37,9 @@
 
 </details>
 
+<details>
+<summary>框架自身的过滤函数与语言自身的过滤函数相互冲突（1次）</summary>
+
+* CVE-2019-17553
+
+</details>
